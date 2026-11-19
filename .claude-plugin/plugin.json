@@ -1,0 +1,8 @@
+{
+  "name": "claude-video-effects",
+  "version": "1.0.0",
+  "description": "51 video effects for talking-head clips (orbit, spotlight, glass widgets, headline wall, match-cut and more) with face tracking and behind-the-head layers, run with /effects. From Hop Studio by @vibha.in.progress.",
+  "repository": "https://github.com/Achi-Akira/claude-video-effects",
+  "license": "MIT",
+  "keywords": ["video", "effects", "talking-head", "face-tracking", "ffmpeg", "editing"]
+}
